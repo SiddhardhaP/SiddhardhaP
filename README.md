@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Siddhardha
+## Hi there 👋
+I'm Siddhardha
 
 **AI Developer • Backend Engineer • Multi-Agent Systems Enthusiast**
 
